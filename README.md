@@ -1,4 +1,4 @@
-# FileTypeConvertion XML to Excel using Syncfusion.winform 
+# FileTypeConvertion XML to Excel using Syncfusion.xlsIO.winforms 
 
 using System;
 </br>
